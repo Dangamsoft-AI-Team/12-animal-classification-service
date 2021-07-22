@@ -1,0 +1,10 @@
+torch==1.7.1
+torchvision==0.8.0
+flask==1.1.2
+Flask-Cors==3.0.10
+pillow==8.1.2
+numpy==1.19.2
+opencv-python==4.4.0.46
+flask-restplus==0.13.0
+py-eureka-client==0.9.9
+Werkzeug==0.16.1
